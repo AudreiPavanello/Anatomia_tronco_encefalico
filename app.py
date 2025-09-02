@@ -372,4 +372,4 @@ elif selection == "Quiz Clínico":
     run_quiz(quiz_clinico_data, "Quiz Clínico")
 
 st.sidebar.markdown("---")
-st.sidebar.info("Desenvolvido com base em Neuroanatomia Funcinal - 4° Edição'")
+st.sidebar.info("Desenvolvido com base em Machado - Neuroanatomia Funcional - 4° Edição'")
